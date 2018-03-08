@@ -1,11 +1,14 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CompareCells" />
   <action id="Debug" />
   <action id="DebugClass" />
+  <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
+  <action id="FileChooser.GotoDesktop" />
   <action id="GotoRelated" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="ctrl meta down" />
@@ -15,8 +18,9 @@
   </action>
   <action id="RunDashboard.Debug" />
   <action id="SelectNextOccurrence">
-    <keyboard-shortcut first-keystroke="ctrl g" />
-    <keyboard-shortcut first-keystroke="ctrl d" />
+    <keyboard-shortcut first-keystroke="meta d" />
   </action>
+  <action id="SendEOF" />
   <action id="Uml.ShowDiff" />
+  <action id="openAssertEqualsDiff" />
 </keymap>
