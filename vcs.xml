@@ -26,6 +26,10 @@
           <option name="url" value="https://github.com/ClassCreative/chh-shop.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ClassCreative/the_method.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/sites" />
