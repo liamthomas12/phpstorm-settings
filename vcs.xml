@@ -34,11 +34,16 @@
           <option name="url" value="https://github.com/ClassCreative/the-clearing.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ClassCreative/mergers3mais.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ClassCreative/mergers3api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/sites" />
-  </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="MIGRATED" value="true" />
+    <option name="cloneParentDir" value="$USER_HOME$/sites/mergers" />
   </component>
 </application>
