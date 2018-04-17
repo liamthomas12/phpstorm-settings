@@ -46,8 +46,12 @@
           <option name="url" value="https://github.com/ClassCreative/bentley-target.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ClassCreative/bears.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/sites/mergers" />
+    <option name="cloneParentDir" value="$USER_HOME$/sites" />
   </component>
 </application>
