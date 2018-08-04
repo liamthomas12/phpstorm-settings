@@ -11,6 +11,9 @@
   <action id="GotoNextElementUnderCaretUsage">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
   <action id="SendEOF" />
   <action id="Uml.ShowDiff" />
   <action id="openAssertEqualsDiff" />
