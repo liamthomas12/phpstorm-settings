@@ -1,11 +1,13 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.2.3" />
+    <option name="version" value="2.4.1.5-2018.1" />
     <option name="highlightColor" value="80cbc4" />
     <option name="isBoldTabs" value="true" />
     <option name="accentColor" value="ffd700" />
     <option name="statusBarTheme" value="false" />
     <option name="isCompactStatusBar" value="true" />
     <option name="compactDropdowns" value="true" />
+    <option name="userId" value="1aae58de:1653809df30:-7fff" />
+    <option name="allowDataCollection" value="true" />
   </component>
 </application>
