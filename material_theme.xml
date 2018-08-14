@@ -1,13 +1,20 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.4.1.5-2018.1" />
+    <option name="version" value="2.7.2" />
+    <option name="selectedTheme" value="DARKER" />
     <option name="highlightColor" value="80cbc4" />
+    <option name="isContrastMode" value="true" />
     <option name="isBoldTabs" value="true" />
     <option name="accentColor" value="ffd700" />
     <option name="statusBarTheme" value="false" />
     <option name="isCompactStatusBar" value="true" />
+    <option name="darkTitleBar" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="userId" value="1aae58de:1653809df30:-7fff" />
     <option name="allowDataCollection" value="true" />
+    <option name="monochromeIcons" value="true" />
+    <option name="userId" value="4c259509:165017f1db2:-7fff" />
+    <option name="allowDataCollection" value="true" />
+    <option name="isWizardShown" value="true" />
   </component>
 </application>
