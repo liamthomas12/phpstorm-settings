@@ -1,9 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.8.3" />
+    <option name="version" value="2.9.6.4" />
     <option name="highlightColor" value="80cbc4" />
     <option name="isContrastMode" value="true" />
-    <option name="isBoldTabs" value="true" />
     <option name="accentColor" value="ffd700" />
     <option name="statusBarTheme" value="false" />
     <option name="isCompactStatusBar" value="true" />
