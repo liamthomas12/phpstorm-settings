@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="webmanifest" type="PLAIN_TEXT" />
       <mapping pattern="_buttons" type="SCSS" />
+      <mapping ext="njk" type="Twig" />
     </extensionMap>
   </component>
 </application>
