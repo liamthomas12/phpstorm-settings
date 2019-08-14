@@ -16,8 +16,8 @@
     <mask>*.vue</mask>
     <mask>*.njk</mask>
     <mask>*.json</mask>
-    <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
