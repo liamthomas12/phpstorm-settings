@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="digitalocean" type="PLAIN_TEXT" />
       <mapping pattern="edgbaston" type="PLAIN_TEXT" />
       <mapping pattern="sjones" type="PLAIN_TEXT" />
       <mapping ext="mmdb" type="PLAIN_TEXT" />
