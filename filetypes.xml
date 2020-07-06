@@ -8,6 +8,8 @@
       <mapping pattern="sjones" type="PLAIN_TEXT" />
       <mapping ext="mmdb" type="PLAIN_TEXT" />
       <mapping ext="webmanifest" type="PLAIN_TEXT" />
+      <mapping ext="st" type="PLAIN_TEXT" />
+      <mapping ext="cfe" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="woff" type="PLAIN_TEXT" />
