@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.vue" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -11,12 +12,12 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.vue</mask>
     <mask>*.njk</mask>
     <mask>*.ejs</mask>
     <mask>*.php</mask>
-    <mask>*.scss</mask>
     <mask>*.json</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
