@@ -13,10 +13,10 @@
     <mask>*.mxml</mask>
     <mask>*.njk</mask>
     <mask>*.ejs</mask>
-    <mask>*.php</mask>
     <mask>*.json</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*.vue</mask>
+    <mask>*.php</mask>
   </component>
 </application>
