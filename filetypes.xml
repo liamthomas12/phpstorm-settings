@@ -1,19 +1,19 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="users" type="PLAIN_TEXT" />
-      <mapping pattern="lekela_corp" type="PLAIN_TEXT" />
       <mapping pattern="digitalocean" type="PLAIN_TEXT" />
-      <mapping pattern="edgbaston" type="PLAIN_TEXT" />
       <mapping pattern="sjones" type="PLAIN_TEXT" />
-      <mapping ext="mmdb" type="PLAIN_TEXT" />
+      <mapping pattern="edgbaston" type="PLAIN_TEXT" />
+      <mapping pattern="default" type="PLAIN_TEXT" />
+      <mapping pattern=".digitalocean_password" type="PLAIN_TEXT" />
+      <mapping ext="csr" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="webmanifest" type="PLAIN_TEXT" />
-      <mapping ext="st" type="PLAIN_TEXT" />
-      <mapping ext="cfe" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
+      <mapping ext="mmdb" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
-      <mapping ext="woff" type="PLAIN_TEXT" />
-      <mapping ext="staging" type="PLAIN_TEXT" />
       <mapping ext="njk" type="Twig" />
     </extensionMap>
   </component>
