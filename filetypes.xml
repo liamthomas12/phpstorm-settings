@@ -4,6 +4,7 @@
       <mapping pattern="glideb2c" type="PLAIN_TEXT" />
       <mapping pattern="nexus2" type="PLAIN_TEXT" />
       <mapping pattern="epc" type="PLAIN_TEXT" />
+      <mapping pattern="intranet" type="PLAIN_TEXT" />
       <mapping pattern="digitalocean" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="pinnacle" type="PLAIN_TEXT" />
