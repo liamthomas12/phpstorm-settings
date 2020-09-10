@@ -1,6 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="integrated2" type="PLAIN_TEXT" />
+      <mapping pattern="nexus2" type="PLAIN_TEXT" />
+      <mapping pattern="epc" type="PLAIN_TEXT" />
       <mapping pattern="integrated" type="PLAIN_TEXT" />
       <mapping pattern="digitalocean" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
