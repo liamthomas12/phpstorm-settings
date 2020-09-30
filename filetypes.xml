@@ -1,29 +1,26 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="integrated" type="PLAIN_TEXT" />
-      <mapping pattern="digitalocean" type="PLAIN_TEXT" />
-      <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
-      <mapping pattern="sjones" type="PLAIN_TEXT" />
-      <mapping pattern="glideb2c" type="PLAIN_TEXT" />
-      <mapping pattern="intranet" type="PLAIN_TEXT" />
-      <mapping pattern="pinnacle" type="PLAIN_TEXT" />
       <mapping pattern="integrated2" type="PLAIN_TEXT" />
-      <mapping pattern="nexus-retina" type="PLAIN_TEXT" />
-      <mapping pattern="edgbaston" type="PLAIN_TEXT" />
-      <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern="nexus2" type="PLAIN_TEXT" />
       <mapping pattern="mais" type="PLAIN_TEXT" />
       <mapping pattern="epc" type="PLAIN_TEXT" />
+      <mapping pattern="digitalocean" type="PLAIN_TEXT" />
+      <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
+      <mapping pattern="pinnacle" type="PLAIN_TEXT" />
+      <mapping pattern="edgbaston" type="PLAIN_TEXT" />
+      <mapping pattern="default" type="PLAIN_TEXT" />
+      <mapping pattern="integrated" type="PLAIN_TEXT" />
       <mapping pattern=".digitalocean_password" type="PLAIN_TEXT" />
+      <mapping pattern="nexus-retina" type="PLAIN_TEXT" />
       <mapping ext="csr" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
-      <mapping ext="webmanifest" type="PLAIN_TEXT" />
-      <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="mmdb" type="PLAIN_TEXT" />
-      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="webmanifest" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="njk" type="Twig" />
     </extensionMap>
   </component>
