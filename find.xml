@@ -19,9 +19,9 @@
     <mask>*.css</mask>
     <mask>*.json</mask>
     <mask>*.json</mask>
-    <mask>*.js</mask>
-    <mask>*.scss</mask>
     <mask>*.php</mask>
+    <mask>*.scss</mask>
+    <mask>*.js</mask>
     <mask>*.php</mask>
   </component>
 </application>
