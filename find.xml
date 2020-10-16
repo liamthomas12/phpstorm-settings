@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="315 Share price tabs styling wrong" />
-    <option name="defaultScopeName" value="315 Share price tabs styling wrong" />
-    <option name="SEARCH_SCOPE" value="315 Share price tabs styling wrong" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.scss" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
