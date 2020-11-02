@@ -4,6 +4,8 @@
       <mapping pattern="integrated" type="PLAIN_TEXT" />
       <mapping pattern="digitalocean" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
+      <mapping pattern="clearing" type="PLAIN_TEXT" />
+      <mapping pattern="edgbaston-shop" type="PLAIN_TEXT" />
       <mapping pattern="pinnacle" type="PLAIN_TEXT" />
       <mapping pattern="integrated2" type="PLAIN_TEXT" />
       <mapping pattern="nexus-retina" type="PLAIN_TEXT" />
