@@ -17,6 +17,7 @@
       <mapping pattern="nexus2" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="mais" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".digitalocean_password" type="PLAIN_TEXT" />
       <mapping ext="mmdb" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
