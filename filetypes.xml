@@ -5,6 +5,7 @@
       <mapping pattern="sjones" type="PLAIN_TEXT" />
       <mapping pattern="integrated2" type="PLAIN_TEXT" />
       <mapping pattern="edgbaston" type="PLAIN_TEXT" />
+      <mapping pattern="intranet" type="PLAIN_TEXT" />
       <mapping pattern="clearing" type="PLAIN_TEXT" />
       <mapping pattern="shop" type="PLAIN_TEXT" />
       <mapping pattern="integrated" type="PLAIN_TEXT" />
