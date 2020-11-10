@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f0598692-13ba-4d40-b7aa-330504cb7764" name="Live" url="http://178.128.169.71">
+        <fileTransfer accessType="SFTP" host="178.128.169.71" port="22" sshConfigId="6539af69-bf44-4c96-a058-11343ce25198" sshConfig="Edgbaston Live" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
