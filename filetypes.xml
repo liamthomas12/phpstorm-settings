@@ -4,7 +4,8 @@
       <mapping pattern="integrated" type="PLAIN_TEXT" />
       <mapping pattern="digitalocean" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
-      <mapping pattern="nexus-retina" type="PLAIN_TEXT" />
+      <mapping pattern="epc" type="PLAIN_TEXT" />
+      <mapping pattern="clearing" type="PLAIN_TEXT" />
       <mapping pattern="edgbaston-shop" type="PLAIN_TEXT" />
       <mapping pattern="sjones" type="PLAIN_TEXT" />
       <mapping pattern="epc" type="PLAIN_TEXT" />
@@ -14,6 +15,7 @@
       <mapping pattern="nexus2" type="PLAIN_TEXT" />
       <mapping pattern="intranet" type="PLAIN_TEXT" />
       <mapping pattern="mais" type="PLAIN_TEXT" />
+      <mapping pattern="shop" type="PLAIN_TEXT" />
       <mapping pattern=".digitalocean_password" type="PLAIN_TEXT" />
       <mapping pattern="shop" type="PLAIN_TEXT" />
       <mapping pattern="clearing" type="PLAIN_TEXT" />
