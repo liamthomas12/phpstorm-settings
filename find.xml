@@ -20,8 +20,8 @@
     <mask>*.tsx</mask>
     <mask>*.vue</mask>
     <mask>*.json</mask>
-    <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.php</mask>
     <mask>*.scss</mask>
   </component>
 </application>
