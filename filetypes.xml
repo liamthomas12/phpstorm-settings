@@ -1,9 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="significant" type="AUTO_DETECTED" />
-      <mapping pattern="import" type="AUTO_DETECTED" />
-      <mapping pattern=".edgbaston" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <mapping pattern=".default" type="PLAIN_TEXT" />
       <mapping pattern="integrated" type="PLAIN_TEXT" />
@@ -20,22 +17,13 @@
       <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern="nexus2" type="PLAIN_TEXT" />
       <mapping pattern="clearing" type="PLAIN_TEXT" />
+      <mapping pattern="squirrel" type="PLAIN_TEXT" />
       <mapping pattern=".significant" type="PLAIN_TEXT" />
       <mapping pattern="mais" type="PLAIN_TEXT" />
       <mapping pattern="shop" type="PLAIN_TEXT" />
       <mapping pattern="epc" type="PLAIN_TEXT" />
       <mapping pattern=".sjones" type="PLAIN_TEXT" />
       <mapping pattern=".digitalocean_password" type="PLAIN_TEXT" />
-      <mapping pattern=".significant" type="PLAIN_TEXT" />
-      <mapping pattern="clearing" type="PLAIN_TEXT" />
-      <mapping pattern="shop" type="PLAIN_TEXT" />
-      <mapping pattern=".password" type="PLAIN_TEXT" />
-      <mapping ext="timer" type="PLAIN_TEXT" />
-      <mapping ext="mmdb" type="PLAIN_TEXT" />
-      <mapping ext="woff2" type="PLAIN_TEXT" />
-      <mapping ext="types" type="PLAIN_TEXT" />
-      <mapping ext="webmanifest" type="PLAIN_TEXT" />
-      <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="csr" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
@@ -43,10 +31,13 @@
       <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="mmdb" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="timer" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="types" type="PLAIN_TEXT" />
       <mapping ext="njk" type="Twig" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <mapping pattern="import" type="AUTO_DETECTED" />
       <mapping pattern="significant" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
