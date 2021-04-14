@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="significant" type="AUTO_DETECTED" />
       <mapping pattern="import" type="AUTO_DETECTED" />
+      <mapping pattern="authorized_keys" type="AUTO_DETECTED" />
       <mapping pattern="squirrel" type="AUTO_DETECTED" />
       <mapping pattern=".edgbaston" type="PLAIN_TEXT" />
       <mapping pattern="integrated" type="PLAIN_TEXT" />
