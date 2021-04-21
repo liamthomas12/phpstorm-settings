@@ -3,14 +3,13 @@
     <extensionMap>
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <mapping pattern=".default" type="PLAIN_TEXT" />
+      <mapping pattern="sjones_testing" type="PLAIN_TEXT" />
       <mapping pattern="integrated" type="PLAIN_TEXT" />
       <mapping pattern="digitalocean" type="PLAIN_TEXT" />
       <mapping pattern=".password" type="PLAIN_TEXT" />
       <mapping pattern="sjones" type="PLAIN_TEXT" />
-      <mapping pattern="sjones_testing" type="PLAIN_TEXT" />
-      <mapping pattern="intranet" type="PLAIN_TEXT" />
       <mapping pattern=".passwords" type="PLAIN_TEXT" />
-      <mapping pattern="edgbaston-shop" type="PLAIN_TEXT" />
+      <mapping pattern="intranet" type="PLAIN_TEXT" />
       <mapping pattern="pinnacle" type="PLAIN_TEXT" />
       <mapping pattern="integrated2" type="PLAIN_TEXT" />
       <mapping pattern="edgbaston" type="PLAIN_TEXT" />
@@ -18,6 +17,7 @@
       <mapping pattern="default" type="PLAIN_TEXT" />
       <mapping pattern="nexus2" type="PLAIN_TEXT" />
       <mapping pattern="clearing" type="PLAIN_TEXT" />
+      <mapping pattern="edgbaston-shop" type="PLAIN_TEXT" />
       <mapping pattern=".significant" type="PLAIN_TEXT" />
       <mapping pattern="mais" type="PLAIN_TEXT" />
       <mapping pattern="shop" type="PLAIN_TEXT" />
