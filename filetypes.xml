@@ -25,8 +25,8 @@
       <mapping pattern=".default" type="PLAIN_TEXT" />
       <mapping pattern=".digitalocean_password" type="PLAIN_TEXT" />
       <mapping pattern=".significant" type="PLAIN_TEXT" />
-      <mapping pattern="shop" type="PLAIN_TEXT" />
       <mapping pattern="clearing" type="PLAIN_TEXT" />
+      <mapping pattern="shop" type="PLAIN_TEXT" />
       <mapping pattern=".password" type="PLAIN_TEXT" />
       <mapping ext="timer" type="PLAIN_TEXT" />
       <mapping ext="mmdb" type="PLAIN_TEXT" />
