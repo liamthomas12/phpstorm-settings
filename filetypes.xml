@@ -6,6 +6,7 @@
       <mapping pattern="teaching-times" type="AUTO_DETECTED" />
       <mapping pattern=".digitalocean_password" type="PLAIN_TEXT" />
       <mapping ext="ucf-dist" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
     </extensionMap>
   </component>
