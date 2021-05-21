@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="digitalocean" type="AUTO_DETECTED" />
       <mapping pattern="default" type="AUTO_DETECTED" />
+      <mapping pattern="teaching_times" type="AUTO_DETECTED" />
       <mapping pattern="teaching-times" type="AUTO_DETECTED" />
       <mapping pattern=".digitalocean_password" type="PLAIN_TEXT" />
       <mapping ext="ucf-dist" type="PLAIN_TEXT" />
