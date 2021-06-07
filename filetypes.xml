@@ -5,9 +5,12 @@
       <mapping pattern="default" type="AUTO_DETECTED" />
       <mapping pattern="sjones" type="AUTO_DETECTED" />
       <mapping pattern="teaching_times" type="AUTO_DETECTED" />
+      <mapping pattern="epcforyou" type="AUTO_DETECTED" />
       <mapping pattern="import" type="AUTO_DETECTED" />
       <mapping pattern="authorized_keys" type="AUTO_DETECTED" />
+      <mapping pattern="dandk" type="AUTO_DETECTED" />
       <mapping pattern="teaching-times" type="AUTO_DETECTED" />
+      <mapping pattern="deetu" type="AUTO_DETECTED" />
       <mapping pattern="shop" type="AUTO_DETECTED" />
       <mapping pattern=".DS_Store" type="PLAIN_TEXT" />
       <mapping pattern=".digitalocean_password" type="PLAIN_TEXT" />
