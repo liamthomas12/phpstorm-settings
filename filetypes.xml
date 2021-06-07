@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="nexus" type="AUTO_DETECTED" />
       <mapping pattern="digitalocean" type="AUTO_DETECTED" />
       <mapping pattern="default" type="AUTO_DETECTED" />
       <mapping pattern="sjones" type="AUTO_DETECTED" />
