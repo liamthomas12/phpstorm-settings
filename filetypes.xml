@@ -10,6 +10,7 @@
       <mapping pattern="import" type="AUTO_DETECTED" />
       <mapping pattern="authorized_keys" type="AUTO_DETECTED" />
       <mapping pattern="dandk" type="AUTO_DETECTED" />
+      <mapping pattern="arctic-shores" type="AUTO_DETECTED" />
       <mapping pattern="teaching-times" type="AUTO_DETECTED" />
       <mapping pattern="deetu" type="AUTO_DETECTED" />
       <mapping pattern="shop" type="AUTO_DETECTED" />
