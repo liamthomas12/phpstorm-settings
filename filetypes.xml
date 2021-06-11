@@ -16,6 +16,7 @@
       <mapping pattern="shop" type="AUTO_DETECTED" />
       <mapping pattern=".DS_Store" type="PLAIN_TEXT" />
       <mapping pattern=".digitalocean_password" type="PLAIN_TEXT" />
+      <mapping ext="timer" type="PLAIN_TEXT" />
       <mapping ext="ucf-dist" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
