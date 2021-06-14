@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="nexus" type="AUTO_DETECTED" />
+      <mapping pattern="sjones_testing" type="AUTO_DETECTED" />
       <mapping pattern="digitalocean" type="AUTO_DETECTED" />
       <mapping pattern="default" type="AUTO_DETECTED" />
       <mapping pattern="sjones" type="AUTO_DETECTED" />
@@ -13,6 +14,7 @@
       <mapping pattern="arctic-shores" type="AUTO_DETECTED" />
       <mapping pattern="teaching-times" type="AUTO_DETECTED" />
       <mapping pattern="deetu" type="AUTO_DETECTED" />
+      <mapping pattern="static" type="AUTO_DETECTED" />
       <mapping pattern="shop" type="AUTO_DETECTED" />
       <mapping pattern=".DS_Store" type="PLAIN_TEXT" />
       <mapping pattern=".digitalocean_password" type="PLAIN_TEXT" />
