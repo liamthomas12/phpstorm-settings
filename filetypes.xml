@@ -16,6 +16,7 @@
       <mapping pattern="default" type="AUTO_DETECTED" />
       <mapping pattern="teaching_times" type="AUTO_DETECTED" />
       <mapping pattern="epcforyou" type="AUTO_DETECTED" />
+      <mapping pattern="arctic_testing" type="AUTO_DETECTED" />
       <mapping pattern="authorized_keys" type="AUTO_DETECTED" />
       <mapping pattern="carcloud" type="AUTO_DETECTED" />
       <mapping pattern="dandk" type="AUTO_DETECTED" />
