@@ -14,7 +14,6 @@
     <mask>*.njk</mask>
     <mask>*.ejs</mask>
     <mask>*.njk</mask>
-    <mask>*.css</mask>
     <mask>*.sql</mask>
     <mask>*.tsx</mask>
     <mask>*.json</mask>
@@ -22,6 +21,7 @@
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.scss</mask>
+    <mask>*.css</mask>
     <mask>*.css</mask>
   </component>
 </application>
