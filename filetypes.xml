@@ -13,6 +13,7 @@
       <mapping pattern="static" type="AUTO_DETECTED" />
       <mapping pattern="shop" type="AUTO_DETECTED" />
       <mapping pattern="arctic_hubspot" type="AUTO_DETECTED" />
+      <mapping pattern="tickd" type="AUTO_DETECTED" />
       <mapping pattern="sjones_testing" type="AUTO_DETECTED" />
       <mapping pattern="default" type="AUTO_DETECTED" />
       <mapping pattern="teaching_times" type="AUTO_DETECTED" />
@@ -38,6 +39,7 @@
       <mapping pattern="nexus2" type="PLAIN_TEXT" />
       <mapping pattern=".sjones" type="PLAIN_TEXT" />
       <mapping pattern="mais" type="PLAIN_TEXT" />
+      <mapping pattern=".tickd" type="PLAIN_TEXT" />
       <mapping pattern=".digitalocean_password" type="PLAIN_TEXT" />
       <mapping pattern=".significant" type="PLAIN_TEXT" />
       <mapping pattern=".password" type="PLAIN_TEXT" />
