@@ -25,6 +25,7 @@
       <mapping pattern="authorized_keys" type="AUTO_DETECTED" />
       <mapping pattern="carcloud" type="AUTO_DETECTED" />
       <mapping pattern="dandk" type="AUTO_DETECTED" />
+      <mapping pattern="moyi" type="AUTO_DETECTED" />
       <mapping pattern="arctic-hubspot" type="AUTO_DETECTED" />
       <mapping pattern=".edgbaston" type="PLAIN_TEXT" />
       <mapping pattern=".maintenance" type="PLAIN_TEXT" />
