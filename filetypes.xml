@@ -34,6 +34,7 @@
       <mapping pattern=".edgbaston" type="PLAIN_TEXT" />
       <mapping pattern=".maintenance" type="PLAIN_TEXT" />
       <mapping pattern=".passwords" type="PLAIN_TEXT" />
+      <mapping pattern=".codat" type="PLAIN_TEXT" />
       <mapping pattern=".DS_Store" type="PLAIN_TEXT" />
       <mapping pattern="integrated2" type="PLAIN_TEXT" />
       <mapping pattern="edgbaston" type="PLAIN_TEXT" />
