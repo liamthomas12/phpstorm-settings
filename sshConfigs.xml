@@ -14,6 +14,9 @@
       <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="178.128.169.71" id="6539af69-bf44-4c96-a058-11343ce25198" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="Edgbaston Live" nameFormat="CUSTOM" username="root">
         <option name="customName" value="Edgbaston Live" />
       </sshConfig>
+      <sshConfig host="165.227.239.62" id="becbd89d-5417-41d7-ac93-b03186d3e3fe" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="New Staging" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="New Staging" />
+      </sshConfig>
     </configs>
   </component>
 </application>
