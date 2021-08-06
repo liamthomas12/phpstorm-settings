@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="staging.classcreative.co.uk" id="36ec08bc-71d7-4b88-a2a4-58e067f7180c" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="Staging" nameFormat="CUSTOM" username="root">
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="staging.classcreative.co.uk" id="36ec08bc-71d7-4b88-a2a4-58e067f7180c" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="Staging" nameFormat="CUSTOM" username="root">
         <option name="customName" value="Staging" />
       </sshConfig>
       <sshConfig host="carcloudcommunity.co.uk" id="cbe09078-9a5a-4bb1-9794-89f6092a2c16" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
