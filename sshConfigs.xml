@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="staging.classcreative.co.uk" id="36ec08bc-71d7-4b88-a2a4-58e067f7180c" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="Staging" nameFormat="CUSTOM" username="root">
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="staging.classcreative.co.uk" id="36ec08bc-71d7-4b88-a2a4-58e067f7180c" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="Staging" nameFormat="CUSTOM" username="root">
         <option name="customName" value="Staging" />
       </sshConfig>
       <sshConfig host="carcloudcommunity.co.uk" id="cbe09078-9a5a-4bb1-9794-89f6092a2c16" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" />
@@ -13,6 +13,9 @@
       </sshConfig>
       <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="178.128.169.71" id="6539af69-bf44-4c96-a058-11343ce25198" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="Edgbaston Live" nameFormat="CUSTOM" username="root">
         <option name="customName" value="Edgbaston Live" />
+      </sshConfig>
+      <sshConfig host="165.227.239.62" id="becbd89d-5417-41d7-ac93-b03186d3e3fe" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="New Staging" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="New Staging" />
       </sshConfig>
     </configs>
   </component>
