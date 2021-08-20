@@ -23,6 +23,7 @@
       <mapping pattern="sjones" type="AUTO_DETECTED" />
       <mapping pattern="tickd" type="AUTO_DETECTED" />
       <mapping pattern="dandk" type="AUTO_DETECTED" />
+      <mapping pattern="BLAHOoon0G" type="Image" />
       <mapping pattern="mais" type="PLAIN_TEXT" />
       <mapping pattern=".digitalocean_password" type="PLAIN_TEXT" />
       <mapping pattern=".passwords" type="PLAIN_TEXT" />
