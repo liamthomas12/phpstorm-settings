@@ -7,6 +7,7 @@
       <mapping pattern="epcforyou" type="AUTO_DETECTED" />
       <mapping pattern="static" type="AUTO_DETECTED" />
       <mapping pattern="authorized_keys" type="AUTO_DETECTED" />
+      <mapping pattern="allergy" type="AUTO_DETECTED" />
       <mapping pattern="significant" type="AUTO_DETECTED" />
       <mapping pattern="squirrel" type="AUTO_DETECTED" />
       <mapping pattern="deetu" type="AUTO_DETECTED" />
