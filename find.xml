@@ -17,11 +17,11 @@
     <mask>*.sql</mask>
     <mask>*.json</mask>
     <mask>*.vue</mask>
-    <mask>*.css</mask>
-    <mask>*.css</mask>
     <mask>*.js</mask>
-    <mask>*.php</mask>
+    <mask>*.css</mask>
+    <mask>*.css</mask>
     <mask>*.tsx</mask>
+    <mask>*.php</mask>
     <mask>*.scss</mask>
   </component>
 </application>
