@@ -15,7 +15,6 @@
     <mask>*.ejs</mask>
     <mask>*.njk</mask>
     <mask>*.sql</mask>
-    <mask>*.json</mask>
     <mask>*.vue</mask>
     <mask>*.js</mask>
     <mask>*.css</mask>
