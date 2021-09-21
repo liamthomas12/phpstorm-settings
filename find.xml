@@ -21,6 +21,7 @@
     <mask>*.css</mask>
     <mask>*.css</mask>
     <mask>*.php</mask>
+    <mask>*.json</mask>
     <mask>*.tsx</mask>
     <mask>*.scss</mask>
   </component>
