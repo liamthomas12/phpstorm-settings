@@ -12,6 +12,7 @@
       <mapping pattern="squirrel" type="AUTO_DETECTED" />
       <mapping pattern="deetu" type="AUTO_DETECTED" />
       <mapping pattern="teaching_times" type="AUTO_DETECTED" />
+      <mapping pattern="arcticshores" type="AUTO_DETECTED" />
       <mapping pattern="nexus" type="AUTO_DETECTED" />
       <mapping pattern="shop" type="AUTO_DETECTED" />
       <mapping pattern="import" type="AUTO_DETECTED" />
