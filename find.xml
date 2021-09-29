@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="customScope" value="Default Changelist" />
+    <option name="defaultScopeName" value="Default Changelist" />
+    <option name="SEARCH_SCOPE" value="Default Changelist" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,6 +14,7 @@
     <mask>*.ejs</mask>
     <mask>*.njk</mask>
     <mask>*.sql</mask>
+    <mask>*.json</mask>
     <mask>*.vue</mask>
     <mask>*.js</mask>
     <mask>*.css</mask>
@@ -23,6 +23,5 @@
     <mask>*.php</mask>
     <mask>*.scss</mask>
     <mask>*.tsx</mask>
-    <mask>*.scss</mask>
   </component>
 </application>
