@@ -3,7 +3,6 @@
     <option name="customScope" value="304 Star brands page - Colours" />
     <option name="defaultScopeName" value="304 Star brands page - Colours" />
     <option name="SEARCH_SCOPE" value="304 Star brands page - Colours" />
-    <option name="FILE_MASK" value="*.scss" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
