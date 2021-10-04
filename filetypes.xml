@@ -28,6 +28,7 @@
       <mapping pattern="BLAHOoon0G" type="Image" />
       <mapping pattern="mais" type="PLAIN_TEXT" />
       <mapping pattern=".digitalocean_password" type="PLAIN_TEXT" />
+      <mapping pattern=".allergy" type="PLAIN_TEXT" />
       <mapping pattern=".passwords" type="PLAIN_TEXT" />
       <mapping pattern="epc" type="PLAIN_TEXT" />
       <mapping pattern=".DS_Store" type="PLAIN_TEXT" />
@@ -46,6 +47,7 @@
       <mapping pattern="nexus2" type="PLAIN_TEXT" />
       <mapping pattern="pinnacle" type="PLAIN_TEXT" />
       <mapping pattern=".sjones" type="PLAIN_TEXT" />
+      <mapping pattern=".arcticshores" type="PLAIN_TEXT" />
       <mapping pattern=".maintenance" type="PLAIN_TEXT" />
       <mapping ext="timer" type="PLAIN_TEXT" />
       <mapping ext="liquid" type="PLAIN_TEXT" />
