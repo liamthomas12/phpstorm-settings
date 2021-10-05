@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="387 Unclickable search result" />
-    <option name="defaultScopeName" value="387 Unclickable search result" />
-    <option name="SEARCH_SCOPE" value="387 Unclickable search result" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -20,8 +20,8 @@
     <mask>*.css</mask>
     <mask>*.css</mask>
     <mask>*.json</mask>
-    <mask>*.scss</mask>
-    <mask>*.tsx</mask>
     <mask>*.php</mask>
+    <mask>*.tsx</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
