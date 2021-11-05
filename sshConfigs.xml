@@ -11,7 +11,7 @@
       <sshConfig host="178.62.93.209" id="135aa746-f270-4410-ac24-f55386b549af" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="Lekela Live" nameFormat="CUSTOM" username="root">
         <option name="customName" value="Lekela Live" />
       </sshConfig>
-      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="178.128.169.71" id="6539af69-bf44-4c96-a058-11343ce25198" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="Edgbaston Live" nameFormat="CUSTOM" username="root">
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="lhcp1143.webapps.net" id="6539af69-bf44-4c96-a058-11343ce25198" keyPath="$USER_HOME$/.ssh/id_rsa" port="25088" customName="Edgbaston Live" nameFormat="CUSTOM" username="zs2s2lte">
         <option name="customName" value="Edgbaston Live" />
       </sshConfig>
       <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="165.227.239.62" id="becbd89d-5417-41d7-ac93-b03186d3e3fe" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="New Staging" nameFormat="CUSTOM" username="root">
