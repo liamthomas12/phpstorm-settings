@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="arctic-hubspot" type="AUTO_DETECTED" />
       <mapping pattern="arctic_hubspot" type="AUTO_DETECTED" />
+      <mapping pattern="investbridge" type="AUTO_DETECTED" />
       <mapping pattern="carcloud" type="AUTO_DETECTED" />
       <mapping pattern="epcforyou" type="AUTO_DETECTED" />
       <mapping pattern="static" type="AUTO_DETECTED" />
@@ -42,6 +43,7 @@
       <mapping pattern="intranet" type="PLAIN_TEXT" />
       <mapping pattern="integrated2" type="PLAIN_TEXT" />
       <mapping pattern=".default" type="PLAIN_TEXT" />
+      <mapping pattern=".investbridge" type="PLAIN_TEXT" />
       <mapping pattern=".edgbaston" type="PLAIN_TEXT" />
       <mapping pattern=".tickd" type="PLAIN_TEXT" />
       <mapping pattern="clearing" type="PLAIN_TEXT" />

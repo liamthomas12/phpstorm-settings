@@ -20,7 +20,7 @@
     <mask>*.css</mask>
     <mask>*.json</mask>
     <mask>*.php</mask>
-    <mask>*.scss</mask>
     <mask>*.tsx</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
