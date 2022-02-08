@@ -71,6 +71,7 @@
       <mapping ext="csr" type="PLAIN_TEXT" />
       <mapping ext="njk" type="Twig" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping pattern=".env" approved="true" type=".env file" />
     </extensionMap>
   </component>
 </application>
