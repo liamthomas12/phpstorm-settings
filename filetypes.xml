@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="tseg-marketing" type="AUTO_DETECTED" />
       <mapping pattern="arctic-hubspot" type="AUTO_DETECTED" />
       <mapping pattern="arctic_hubspot" type="AUTO_DETECTED" />
       <mapping pattern="investbridge" type="AUTO_DETECTED" />
