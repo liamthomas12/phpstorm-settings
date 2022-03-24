@@ -33,6 +33,7 @@
       <mapping pattern="dandk" type="AUTO_DETECTED" />
       <mapping pattern="inreach" type="AUTO_DETECTED" />
       <mapping pattern="quest-meat-landing" type="AUTO_DETECTED" />
+      <mapping pattern="sewage" type="AUTO_DETECTED" />
       <mapping pattern="BLAHOoon0G" type="Image" />
       <mapping ext="webp" type="Image" />
       <mapping pattern="mais" type="PLAIN_TEXT" />
