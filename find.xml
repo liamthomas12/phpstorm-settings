@@ -22,7 +22,7 @@
     <mask>{</mask>
     <mask>*.ts</mask>
     <mask>*.php</mask>
-    <mask>*.tsx</mask>
     <mask>*.scss</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
