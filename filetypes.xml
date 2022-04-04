@@ -3,64 +3,65 @@
     <extensionMap>
       <mapping pattern="tseg-marketing" type="AUTO_DETECTED" />
       <mapping pattern="arctic-hubspot" type="AUTO_DETECTED" />
+      <mapping pattern="epcforyou" type="AUTO_DETECTED" />
+      <mapping pattern="authorized_keys" type="AUTO_DETECTED" />
+      <mapping pattern="allergy" type="AUTO_DETECTED" />
+      <mapping pattern="squirrel" type="AUTO_DETECTED" />
+      <mapping pattern="deetu" type="AUTO_DETECTED" />
+      <mapping pattern="teaching_times" type="AUTO_DETECTED" />
+      <mapping pattern="top-level" type="AUTO_DETECTED" />
+      <mapping pattern="digitalocean" type="AUTO_DETECTED" />
+      <mapping pattern="default" type="AUTO_DETECTED" />
+      <mapping pattern="teaching-times" type="AUTO_DETECTED" />
+      <mapping pattern="mowers" type="AUTO_DETECTED" />
+      <mapping pattern="dandk" type="AUTO_DETECTED" />
+      <mapping pattern="sewage" type="AUTO_DETECTED" />
       <mapping pattern="arctic_hubspot" type="AUTO_DETECTED" />
       <mapping pattern="investbridge" type="AUTO_DETECTED" />
       <mapping pattern="tseg-landing" type="AUTO_DETECTED" />
       <mapping pattern="carcloud" type="AUTO_DETECTED" />
-      <mapping pattern="epcforyou" type="AUTO_DETECTED" />
       <mapping pattern="static" type="AUTO_DETECTED" />
-      <mapping pattern="authorized_keys" type="AUTO_DETECTED" />
-      <mapping pattern="allergy" type="AUTO_DETECTED" />
       <mapping pattern="significant" type="AUTO_DETECTED" />
-      <mapping pattern="squirrel" type="AUTO_DETECTED" />
-      <mapping pattern="deetu" type="AUTO_DETECTED" />
-      <mapping pattern="teaching_times" type="AUTO_DETECTED" />
       <mapping pattern="arcticshores" type="AUTO_DETECTED" />
       <mapping pattern="nexus" type="AUTO_DETECTED" />
       <mapping pattern="shop" type="AUTO_DETECTED" />
       <mapping pattern="import" type="AUTO_DETECTED" />
       <mapping pattern="id_rsa" type="AUTO_DETECTED" />
-      <mapping pattern="top-level" type="AUTO_DETECTED" />
-      <mapping pattern="digitalocean" type="AUTO_DETECTED" />
-      <mapping pattern="default" type="AUTO_DETECTED" />
       <mapping pattern="arctic-shores" type="AUTO_DETECTED" />
       <mapping pattern="458" type="AUTO_DETECTED" />
       <mapping pattern="sjones_testing" type="AUTO_DETECTED" />
-      <mapping pattern="teaching-times" type="AUTO_DETECTED" />
       <mapping pattern="arctic_testing" type="AUTO_DETECTED" />
       <mapping pattern="sjones" type="AUTO_DETECTED" />
       <mapping pattern="tickd" type="AUTO_DETECTED" />
-      <mapping pattern="dandk" type="AUTO_DETECTED" />
       <mapping pattern="inreach" type="AUTO_DETECTED" />
       <mapping pattern="quest-meat-landing" type="AUTO_DETECTED" />
-      <mapping pattern="sewage" type="AUTO_DETECTED" />
       <mapping pattern="BLAHOoon0G" type="Image" />
       <mapping ext="webp" type="Image" />
-      <mapping pattern="mais" type="PLAIN_TEXT" />
       <mapping pattern=".digitalocean_password" type="PLAIN_TEXT" />
-      <mapping pattern=".allergy" type="PLAIN_TEXT" />
       <mapping pattern=".passwords" type="PLAIN_TEXT" />
       <mapping pattern="epc" type="PLAIN_TEXT" />
-      <mapping pattern=".DS_Store" type="PLAIN_TEXT" />
-      <mapping pattern=".quest" type="PLAIN_TEXT" />
       <mapping pattern="edgbaston-shop" type="PLAIN_TEXT" />
       <mapping pattern=".password" type="PLAIN_TEXT" />
       <mapping pattern="edgbaston" type="PLAIN_TEXT" />
+      <mapping pattern=".investbridge" type="PLAIN_TEXT" />
+      <mapping pattern=".edgbaston" type="PLAIN_TEXT" />
+      <mapping pattern="clearing" type="PLAIN_TEXT" />
+      <mapping pattern="nexus2" type="PLAIN_TEXT" />
+      <mapping pattern=".arcticshores" type="PLAIN_TEXT" />
+      <mapping pattern=".allergy" type="PLAIN_TEXT" />
+      <mapping pattern="mais" type="PLAIN_TEXT" />
+      <mapping pattern=".DS_Store" type="PLAIN_TEXT" />
+      <mapping pattern=".quest" type="PLAIN_TEXT" />
       <mapping pattern=".significant" type="PLAIN_TEXT" />
       <mapping pattern="local-delivery" type="PLAIN_TEXT" />
       <mapping pattern="integrated" type="PLAIN_TEXT" />
       <mapping pattern="intranet" type="PLAIN_TEXT" />
       <mapping pattern="integrated2" type="PLAIN_TEXT" />
       <mapping pattern=".default" type="PLAIN_TEXT" />
-      <mapping pattern=".investbridge" type="PLAIN_TEXT" />
-      <mapping pattern=".edgbaston" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".tickd" type="PLAIN_TEXT" />
-      <mapping pattern="clearing" type="PLAIN_TEXT" />
-      <mapping pattern="nexus2" type="PLAIN_TEXT" />
       <mapping pattern="pinnacle" type="PLAIN_TEXT" />
       <mapping pattern=".sjones" type="PLAIN_TEXT" />
-      <mapping pattern=".arcticshores" type="PLAIN_TEXT" />
       <mapping pattern=".maintenance" type="PLAIN_TEXT" />
       <mapping ext="timer" type="PLAIN_TEXT" />
       <mapping ext="liquid" type="PLAIN_TEXT" />
