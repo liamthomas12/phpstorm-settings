@@ -14,6 +14,7 @@
       <mapping pattern="default" type="AUTO_DETECTED" />
       <mapping pattern="teaching-times" type="AUTO_DETECTED" />
       <mapping pattern="mowers" type="AUTO_DETECTED" />
+      <mapping pattern="sportbrum" type="AUTO_DETECTED" />
       <mapping pattern="dandk" type="AUTO_DETECTED" />
       <mapping pattern="sewage" type="AUTO_DETECTED" />
       <mapping pattern="arctic_hubspot" type="AUTO_DETECTED" />
