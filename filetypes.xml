@@ -53,8 +53,10 @@
       <mapping pattern=".arcticshores" type="PLAIN_TEXT" />
       <mapping pattern=".allergy" type="PLAIN_TEXT" />
       <mapping pattern="mais" type="PLAIN_TEXT" />
+      <mapping pattern=".bashrc" type="PLAIN_TEXT" />
       <mapping pattern=".DS_Store" type="PLAIN_TEXT" />
       <mapping pattern=".quest" type="PLAIN_TEXT" />
+      <mapping pattern=".profile" type="PLAIN_TEXT" />
       <mapping pattern=".significant" type="PLAIN_TEXT" />
       <mapping pattern="local-delivery" type="PLAIN_TEXT" />
       <mapping pattern="integrated" type="PLAIN_TEXT" />
