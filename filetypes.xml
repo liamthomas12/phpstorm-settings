@@ -59,6 +59,7 @@
       <mapping pattern=".bashrc" type="PLAIN_TEXT" />
       <mapping pattern=".DS_Store" type="PLAIN_TEXT" />
       <mapping pattern=".quest" type="PLAIN_TEXT" />
+      <mapping pattern=".cpb" type="PLAIN_TEXT" />
       <mapping pattern=".profile" type="PLAIN_TEXT" />
       <mapping pattern=".significant" type="PLAIN_TEXT" />
       <mapping pattern="local-delivery" type="PLAIN_TEXT" />
