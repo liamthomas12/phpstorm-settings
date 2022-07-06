@@ -2,7 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig host="carcloudcommunity.co.uk" id="cbe09078-9a5a-4bb1-9794-89f6092a2c16" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
-      <sshConfig host="138.68.133.63" id="a73cd0a5-6f12-41b0-9012-a4b319f3f689" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="Mergers Alliance Live" nameFormat="CUSTOM" username="root">
+      <sshConfig host="138.68.133.63" id="a73cd0a5-6f12-41b0-9012-a4b319f3f689" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="Mergers Alliance Live" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
         <option name="customName" value="Mergers Alliance Live" />
       </sshConfig>
       <sshConfig host="178.62.93.209" id="135aa746-f270-4410-ac24-f55386b549af" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="Lekela Live" nameFormat="CUSTOM" username="root">
@@ -13,6 +13,9 @@
       </sshConfig>
       <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="165.227.239.62" id="becbd89d-5417-41d7-ac93-b03186d3e3fe" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="New Staging" nameFormat="CUSTOM" username="root">
         <option name="customName" value="New Staging" />
+      </sshConfig>
+      <sshConfig host="bidfood-hub.class.sh" id="b7338579-bbb8-4d65-a72b-49bdb866f61b" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" customName="bidfood" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="bidfood" />
       </sshConfig>
     </configs>
   </component>
