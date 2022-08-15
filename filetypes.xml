@@ -23,9 +23,11 @@
       <mapping pattern="tseg-landing" type="AUTO_DETECTED" />
       <mapping pattern="carcloud" type="AUTO_DETECTED" />
       <mapping pattern="static" type="AUTO_DETECTED" />
+      <mapping pattern="sshd_config" type="AUTO_DETECTED" />
       <mapping pattern="riverside" type="AUTO_DETECTED" />
       <mapping pattern="significant" type="AUTO_DETECTED" />
       <mapping pattern="rfa" type="AUTO_DETECTED" />
+      <mapping pattern="ssh_config" type="AUTO_DETECTED" />
       <mapping pattern="arcticshores" type="AUTO_DETECTED" />
       <mapping pattern="engageccc" type="AUTO_DETECTED" />
       <mapping pattern="nexus" type="AUTO_DETECTED" />
