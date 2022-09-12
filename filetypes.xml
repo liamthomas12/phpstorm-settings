@@ -36,6 +36,7 @@
       <mapping pattern="import" type="AUTO_DETECTED" />
       <mapping pattern="mergers-alliance" type="AUTO_DETECTED" />
       <mapping pattern="id_rsa" type="AUTO_DETECTED" />
+      <mapping pattern="snowdomeww" type="AUTO_DETECTED" />
       <mapping pattern="458-law" type="AUTO_DETECTED" />
       <mapping pattern="arctic-shores" type="AUTO_DETECTED" />
       <mapping pattern="458" type="AUTO_DETECTED" />
