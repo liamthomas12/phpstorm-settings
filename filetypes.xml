@@ -17,11 +17,13 @@
       <mapping pattern="teaching-times" type="AUTO_DETECTED" />
       <mapping pattern="snowdome" type="AUTO_DETECTED" />
       <mapping pattern="mowers" type="AUTO_DETECTED" />
+      <mapping pattern="service-shield" type="AUTO_DETECTED" />
       <mapping pattern="sportbrum" type="AUTO_DETECTED" />
       <mapping pattern="dandk" type="AUTO_DETECTED" />
       <mapping pattern="sewage" type="AUTO_DETECTED" />
       <mapping pattern="arctic_hubspot" type="AUTO_DETECTED" />
       <mapping pattern="investbridge" type="AUTO_DETECTED" />
+      <mapping pattern="millspyatt" type="AUTO_DETECTED" />
       <mapping pattern="tseg-landing" type="AUTO_DETECTED" />
       <mapping pattern="carcloud" type="AUTO_DETECTED" />
       <mapping pattern="static" type="AUTO_DETECTED" />
