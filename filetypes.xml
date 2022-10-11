@@ -4,6 +4,7 @@
       <mapping pattern="tseg-marketing" type="AUTO_DETECTED" />
       <mapping pattern="codat" type="AUTO_DETECTED" />
       <mapping pattern="arctic-hubspot" type="AUTO_DETECTED" />
+      <mapping pattern="dev" type="AUTO_DETECTED" />
       <mapping pattern="epcforyou" type="AUTO_DETECTED" />
       <mapping pattern="authorized_keys" type="AUTO_DETECTED" />
       <mapping pattern="allergy" type="AUTO_DETECTED" />
