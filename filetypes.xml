@@ -22,6 +22,7 @@
       <mapping pattern="sportbrum" type="AUTO_DETECTED" />
       <mapping pattern="dandk" type="AUTO_DETECTED" />
       <mapping pattern="sewage" type="AUTO_DETECTED" />
+      <mapping pattern="bidfood-onboarding" type="AUTO_DETECTED" />
       <mapping pattern="arctic_hubspot" type="AUTO_DETECTED" />
       <mapping pattern="investbridge" type="AUTO_DETECTED" />
       <mapping pattern="millspyatt" type="AUTO_DETECTED" />
