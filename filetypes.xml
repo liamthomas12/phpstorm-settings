@@ -33,6 +33,7 @@
       <mapping pattern="riverside" type="AUTO_DETECTED" />
       <mapping pattern="significant" type="AUTO_DETECTED" />
       <mapping pattern="rfa" type="AUTO_DETECTED" />
+      <mapping pattern="csusa" type="AUTO_DETECTED" />
       <mapping pattern="ssh_config" type="AUTO_DETECTED" />
       <mapping pattern="arcticshores" type="AUTO_DETECTED" />
       <mapping pattern="engageccc" type="AUTO_DETECTED" />
