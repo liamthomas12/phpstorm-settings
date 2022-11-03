@@ -150,4 +150,7 @@
       </interpreter>
     </phpInfoCache>
   </component>
+  <component name="PhpSmartKeysConfiguration">
+    <option name="autoInsertFullPhpOpenTag" value="false" />
+  </component>
 </application>
